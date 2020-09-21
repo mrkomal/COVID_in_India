@@ -1,7 +1,7 @@
 # COVID_in_India
-Description :page_with_curl:
-The aim of this project was to plot and analyze COVID19 data in India (statewise) taken from kaggle.com website. 
-Project was done with the use of Python in Jupyter Notebook - popular application for analysis.
+Description :page_with_curl: 
+~ The aim of this project was to plot and analyze COVID19 data in India (statewise) taken from kaggle.com website. 
+~ Project was done with the use of Python in Jupyter Notebook - popular application for analysis.
 
 In a nutshell :chestnut: :
 - Language: Python :snake:
