@@ -9,4 +9,4 @@ In a nutshell :chestnut: :
 - Created plots: line plot, stack plot, interactive barplots and line plots :bar_chart:
 - Expanding data visualization skills and getting familiar with time series :chart_with_upwards_trend:
 ---
-Data: https://www.kaggle.com/amitsavant/covid19-india-statewise-reported-cases-timeseries :open_file_folder:
+Data :open_file_folder: : https://www.kaggle.com/amitsavant/covid19-india-statewise-reported-cases-timeseries
